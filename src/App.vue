@@ -26,6 +26,9 @@ main {
 	display: flex;
 	flex-direction: column;
 	flex-grow: 1;
+	border-top-left-radius: 15px;
+	background-color: #DCF2F1 ;
+	margin-top: 15px;
 }
 
 .nav {
@@ -33,7 +36,7 @@ main {
 	width: 300px;
 	display: flex;
 	flex-direction: column;
-	background-color: #cef1f9;
+	background-color: #7FC7D9;
 }
 
 .link {
